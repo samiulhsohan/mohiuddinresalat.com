@@ -13,6 +13,7 @@
 * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 */
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i&display=swap");
+
 :root {
   --blue: #79a9f5;
   --indigo: #c45f90;
@@ -11949,7 +11950,7 @@ pre .code {
 }
 
 .header .header-content .header-mono {
-  letter-spacing: 5px;
+  letter-spacing: 1px;
   font-weight: 450;
   font-size: calc(10px + (19 - 12) * ((100vw - 300px) / (1600 - 300)));
   margin-bottom: 40px;
